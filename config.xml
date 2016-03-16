@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<widget xmlns     = "http://w3.org/ns/widgets"
-		  xmnls:gap   = "http://phonegap.com/ns/1.0"
+		  xmlns:gap   = "http://phonegap.com/ns/1.0"
 		  id          = "com.phonegab.example1"
 		  versionCode = "10"
 		  version     = "1.0.0">
@@ -10,7 +10,7 @@
 	<name>Aplicacion uno DATOSALUMNOS</name>
 	
 	<description>
-		Aplicacion que muestra los DATOS dek alumno
+		Aplicacion que muestra los DATOS del alumno
 	</description>
 	
 	<preference name="phonegap-version" value="3.1.0" />
